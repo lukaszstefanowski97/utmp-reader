@@ -4,9 +4,9 @@ This script is getting the content of Linux var/run/utmp file in order to iterat
 
 <b>Possible arguments:</b>
 
--h shows hosts
+-h show hosts
 
--l shows ut_line
+-l show ut_line
 
 You can also run script without arguments and see just usernames, or use both at once.
 
